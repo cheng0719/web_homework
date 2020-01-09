@@ -25,17 +25,20 @@ a{
 
 <p><font color="teal" size="6"><i>星座</i> : <b>巨蟹座</b></font></p>
 
-<p><font color="teal" size="6"><i>學歷</i> : <br></font></p>
-<p><font color="teal" size="6"> -><b>高雄市立五福國中</b></font></p>
-<p><font color="teal" size="6"> -><b>高雄市立高雄高級中學</b></font></p>
-<p><font color="teal" size="6"> -><b>清大資工23級</b></font></p>
-
+<p><font color="teal" size="6"><i>學歷</i></font> : 
+  <ul>
+    <li>-><b>高雄市立五福國中</b></li>
+    <li>-><b>高雄市立高雄高級中學</b></li>
+    <li>-><b>清大資工23級</b></li>
+  </ul>
+</p>
 <p><font color="teal" size="6">
-<i>興趣</i> :<br> 
-<b>1. 打籃球</b><br>
-<b>2. 聽音樂</b><br>
-<b>3. 發呆</b><br>
-<b>4. 摸貓咪</b>
+<i>興趣</i> :
+  <ol>
+    <li><b>打籃球</b></li>
+    <li><b>2. 聽音樂</b></li>
+    <li><b>3. 發呆</b></li>
+    <li><b>4. 摸貓咪</b></li>
 </font></p>
 <br>
 <p><font color="teal" size="6">EMAIL : <i>rosehj773@gmail.com</i></font></p>
