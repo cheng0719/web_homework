@@ -34,12 +34,12 @@ a{
   
 </p>
 <p><font color="teal" size="6">
-<i>興趣</i></font> :
+<i>興趣 : </i></font>
   <ol>
-    <li><b>打籃球</b></li>
-    <li><b>聽音樂</b></li>
-    <li><b>發呆</b></li>
-    <li><b>摸貓咪</b></li>
+    <li><font color="teal" size="6"><b>打籃球</b></font></li>
+    <li><font color="teal" size="6"><b>聽音樂</b></font></li>
+    <li><font color="teal" size="6"><b>發呆</b></font></li>
+    <li><font color="teal" size="6"><b>摸貓咪</b></font></li>
     </ol>
 </p>
 <br>
