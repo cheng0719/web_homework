@@ -15,16 +15,16 @@ body {
 <h1>鋼彈盪單槓 單槓不讓鋼彈盪</h1>
 <hr size="7" align="center" noshade width="100%" color="0000ff">
 <img src="貓咪.jpg" alt="Avatar" style="width:200px">
-<br>
-<font color=teal size=5 face=標楷體 style=width:80%><i>姓名</i> : <b>鄭守維</b></font>
-<br><br>
+
+<p style="text-size:100%; color:teal"><i>姓名</i> : <b>鄭守維</b></p>
+
 <font color=teal size=5 face=標楷體 style=width:80%><i>星座</i> : <b>巨蟹座</b></font>
-<br><br>
+
 <font color=teal size=5 face=標楷體 style=width:80%><i>學歷</i> : <br></font>
 <font color=teal size=5 face=標楷體 style=width:80%> <b>高雄市立五福國中</b></font>
 <font color=teal size=5 face=標楷體 style=width:80%> -><b>高雄市立高雄高級中學</b></font>
 <font color=teal size=5 face=標楷體 style=width:80%> -><b>清大資工23級</b></font>
-<br><br>
+
 <font color=teal size=5 face=標楷體 style=width:80%>
 <i>興趣</i> :<br> 
 <b>1. 打籃球</b><br>
