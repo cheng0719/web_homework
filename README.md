@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: black;
+  text-align: left;
+  color: white;
+  font-family: 標楷體, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/cheng0719/web_homework/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>鋼彈盪單槓 單槓不讓鋼彈盪</h1>
+<hr size="7" align="center" noshade width="100%" color="0000ff">
+<img src="貓咪.jpg" alt="Avatar" style="width:200px">
+<br>
+<font color=teal size=5 face=標楷體 style=width:80%><i>姓名</i> : <b>鄭守維</b></font>
+<br><br>
+<font color=teal size=5 face=標楷體 style=width:80%><i>星座</i> : <b>巨蟹座</b></font>
+<br><br>
+<font color=teal size=5 face=標楷體 style=width:80%><i>學歷</i> : <br></font>
+<font color=teal size=5 face=標楷體 style=width:80%> <b>高雄市立五福國中</b></font>
+<font color=teal size=5 face=標楷體 style=width:80%> -><b>高雄市立高雄高級中學</b></font>
+<font color=teal size=5 face=標楷體 style=width:80%> -><b>清大資工23級</b></font>
+<br><br>
+<font color=teal size=5 face=標楷體 style=width:80%>
+<i>興趣</i> :<br> 
+<b>1. 打籃球</b><br>
+<b>2. 聽音樂</b><br>
+<b>3. 發呆</b><br>
+<b>4. 摸貓咪</b>
+</font>
+<br><br>
+<font color=teal size=5 face=標楷體 style=width:80%>EMAIL : <i>rosehj773@gmail.com</i></font>
+<br><br>
+<font color=teal size=5 face=標楷體 style=width:80%>TEL : <i>0905023880</i></font>
+<br><br>
+<marquee scrollamount="20" behavior="scroll" direction="left"><font color=yellow size=5 face=標楷體 style=width:80%><u>只有一個是真的超連結</u></font></marquee>
+<marquee scrollamount="20" behavior="alternate"><a href="https://www.youtube.com/watch?v=cDfNYEN1dis"><font color=yellow size=5 face=標楷體 style=width:80%>只有一個是真的超連結</font></a></marquee>
+<marquee scrollamount="20" behavior="scroll" direction="right"><font color=yellow size=5 face=標楷體 style=width:80%><u>只有一個是真的超連結</u></font></marquee>
+<br><br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script language="JavaScript">
+function ShowTime(){
+　document.getElementById('showbox').innerHTML = new Date();
+　setTimeout('ShowTime()',1000);
+}
+</script>
+<body onload="ShowTime()">
+<div onclick="ChangeColor('white')" style="background-color: black; border:3px double; width:500px;height:50px;float:right;">
+<div id="showbox"></div>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cheng0719/web_homework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
