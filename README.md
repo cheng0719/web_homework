@@ -25,21 +25,21 @@ a{
 
 <p><font color="teal" size="6"><i>星座</i> : <b>巨蟹座</b></font></p>
 
-<p><font color="teal" size="6"><i>學歷</i></font> : 
+<p><font color="teal" size="6"><i>學歷 : </i></font>
   <ul>
-    <li><font color="teal" size="6"><b>高雄市立五福國中</b></font></li>
-    <li><font color="teal" size="6"><b>高雄市立高雄高級中學</b></font></li>
-    <li><font color="teal" size="6"><b>清大資工23級</b></font></li>
+    <font color="teal" size="6"><li><b>高雄市立五福國中</b></li></font>
+    <font color="teal" size="6"><li><b>高雄市立高雄高級中學</b></li></font>
+    <font color="teal" size="6"><li><b>清大資工23級</b></li></font>
   </ul>
   
 </p>
 <p><font color="teal" size="6">
 <i>興趣 : </i></font>
   <ol>
-    <li><font color="teal" size="6"><b>打籃球</b></font></li>
-    <li><font color="teal" size="6"><b>聽音樂</b></font></li>
-    <li><font color="teal" size="6"><b>發呆</b></font></li>
-    <li><font color="teal" size="6"><b>摸貓咪</b></font></li>
+    <font color="teal" size="6"><li><b>打籃球</b></li></font>
+    <font color="teal" size="6"><li><b>聽音樂</b></li></font>
+    <font color="teal" size="6"><li><b>發呆</b></li></font>
+    <font color="teal" size="6"><li><b>摸貓咪</b></li></font>
     </ol>
 </p>
 <br>
@@ -47,9 +47,9 @@ a{
 <br><br>
 <p><font color="teal" size="6">TEL : <i>0905023880</i></font></p>
 <br><br>
-<marquee scrollamount="20" behavior="scroll" direction="left"><font color="yellow" size="6"><u>只有一個是真的超連結</u></font></marquee>
-<marquee scrollamount="20" behavior="alternate"><a href="https://www.youtube.com/watch?v=cDfNYEN1dis"><font color="yellow" size="6"><u>只有一個是真的超連結</u></font></a></marquee>
-<marquee scrollamount="20" behavior="scroll" direction="right"><font color="yellow" size="6"><u>只有一個是真的超連結</u></font></marquee>
+<marquee scrollamount="20" behavior="scroll" direction="left"><font color="yellow" size="5"><u>只有一個是真的超連結</u></font></marquee>
+<marquee scrollamount="20" behavior="alternate"><a href="https://www.youtube.com/watch?v=cDfNYEN1dis"><font color="yellow" size="5"><u>只有一個是真的超連結</u></font></a></marquee>
+<marquee scrollamount="20" behavior="scroll" direction="right"><font color="yellow" size="5"><u>只有一個是真的超連結</u></font></marquee>
 <br><br>
 
 <script language="JavaScript">
