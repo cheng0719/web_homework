@@ -26,7 +26,7 @@ a{
 <p><font color="teal" size="6"><i>星座</i> : <b>巨蟹座</b></font></p>
 
 <p><font color="teal" size="6"><i>學歷</i> : <br></font></p>
-<p><font color="teal" size="6"> <b>高雄市立五福國中</b></font></p>
+<p><font color="teal" size="6"> -><b>高雄市立五福國中</b></font></p>
 <p><font color="teal" size="6"> -><b>高雄市立高雄高級中學</b></font></p>
 <p><font color="teal" size="6"> -><b>清大資工23級</b></font></p>
 
