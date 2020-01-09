@@ -37,7 +37,7 @@ a{
 <b>3. 發呆</b><br>
 <b>4. 摸貓咪</b>
 </font></p>
-<br><br>
+<br>
 <p><font color="teal" size="8">EMAIL : <i>rosehj773@gmail.com</i></font></p>
 <br><br>
 <p><font color="teal" size="8">TEL : <i>0905023880</i></font></p>
@@ -45,7 +45,7 @@ a{
 <marquee scrollamount="20" behavior="scroll" direction="left"><font color="yellow" size="8"><u>只有一個是真的超連結</u></font></marquee>
 <marquee scrollamount="20" behavior="alternate"><a href="https://www.youtube.com/watch?v=cDfNYEN1dis"><font color="yellow" size="8"><u>只有一個是真的超連結</u></font></a></marquee>
 <marquee scrollamount="20" behavior="scroll" direction="right"><font color="yellow" size="8"><u>只有一個是真的超連結</u></font></marquee>
-<br><br><br>
+<br><br>
 
 <script language="JavaScript">
 function ShowTime(){
