@@ -27,19 +27,21 @@ a{
 
 <p><font color="teal" size="6"><i>學歷</i></font> : 
   <ul>
-    <li>-><b>高雄市立五福國中</b></li>
-    <li>-><b>高雄市立高雄高級中學</b></li>
-    <li>-><b>清大資工23級</b></li>
+    <li><font color="teal" size="6"><b>高雄市立五福國中</b></font></li>
+    <li><font color="teal" size="6"><b>高雄市立高雄高級中學</b></font></li>
+    <li><font color="teal" size="6"><b>清大資工23級</b></font></li>
   </ul>
+  
 </p>
 <p><font color="teal" size="6">
-<i>興趣</i> :
+<i>興趣</i></font> :
   <ol>
     <li><b>打籃球</b></li>
-    <li><b>2. 聽音樂</b></li>
-    <li><b>3. 發呆</b></li>
-    <li><b>4. 摸貓咪</b></li>
-</font></p>
+    <li><b>聽音樂</b></li>
+    <li><b>發呆</b></li>
+    <li><b>摸貓咪</b></li>
+    </ol>
+</p>
 <br>
 <p><font color="teal" size="6">EMAIL : <i>rosehj773@gmail.com</i></font></p>
 <br><br>
